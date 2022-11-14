@@ -1,0 +1,1 @@
+print("Hello") # 표준 출력 함수 print() 호출하여 문자열 "Hello" 출력

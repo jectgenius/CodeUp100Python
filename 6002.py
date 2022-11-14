@@ -1,0 +1,1 @@
+print("Hello World") # 표준 출력 함수 print() 호출하여 공백을 포함한 문자열인 "Hello World" 출력
